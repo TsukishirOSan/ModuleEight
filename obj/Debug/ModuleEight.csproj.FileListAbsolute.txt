@@ -1,0 +1,6 @@
+c:\users\faiza harbi\documents\visual studio 2013\Projects\ModuleEight\ModuleEight\bin\Debug\ModuleEight.exe.config
+c:\users\faiza harbi\documents\visual studio 2013\Projects\ModuleEight\ModuleEight\obj\Debug\ModuleEight.csprojResolveAssemblyReference.cache
+c:\users\faiza harbi\documents\visual studio 2013\Projects\ModuleEight\ModuleEight\bin\Debug\ModuleEight.exe
+c:\users\faiza harbi\documents\visual studio 2013\Projects\ModuleEight\ModuleEight\bin\Debug\ModuleEight.pdb
+c:\users\faiza harbi\documents\visual studio 2013\Projects\ModuleEight\ModuleEight\obj\Debug\ModuleEight.exe
+c:\users\faiza harbi\documents\visual studio 2013\Projects\ModuleEight\ModuleEight\obj\Debug\ModuleEight.pdb
